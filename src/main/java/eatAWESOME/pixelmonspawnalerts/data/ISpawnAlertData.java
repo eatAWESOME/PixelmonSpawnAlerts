@@ -1,4 +1,4 @@
-package eatAWESOME.pixelmonspawnalerts.capabilities;
+package eatAWESOME.pixelmonspawnalerts.data;
 
 public interface ISpawnAlertData {
     String getSpawnAlert();
