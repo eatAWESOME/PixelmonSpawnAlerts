@@ -1,4 +1,4 @@
-package eatAWESOME.pixelmonspawnalerts.utils;
+package eatawesome.pixelmonspawnalerts.utils;
 
 import com.pixelmonmod.pixelmon.api.pokemon.Pokemon;
 import com.pixelmonmod.pixelmon.api.pokemon.species.Species;

@@ -1,4 +1,4 @@
-package eatAWESOME.pixelmonspawnalerts.data;
+package eatawesome.pixelmonspawnalerts.data;
 
 import net.minecraft.core.HolderLookup;
 import net.minecraft.nbt.CompoundTag;

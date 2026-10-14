@@ -1,8 +1,9 @@
-package eatAWESOME.pixelmonspawnalerts.data;
+package eatawesome.pixelmonspawnalerts.data;
 
 import java.util.function.Supplier;
 
-import eatAWESOME.pixelmonspawnalerts.PixelmonSpawnAlerts;
+import eatawesome.pixelmonspawnalerts.PixelmonSpawnAlerts;
+
 import net.neoforged.neoforge.attachment.AttachmentType;
 import net.neoforged.neoforge.registries.DeferredRegister;
 import net.neoforged.neoforge.registries.NeoForgeRegistries;

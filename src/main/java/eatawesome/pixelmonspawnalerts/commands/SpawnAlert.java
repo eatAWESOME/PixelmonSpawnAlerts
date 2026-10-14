@@ -1,21 +1,21 @@
-package eatAWESOME.pixelmonspawnalerts.commands;
+package eatawesome.pixelmonspawnalerts.commands;
 
+import eatawesome.pixelmonspawnalerts.data.AttachmentHandler;
+import eatawesome.pixelmonspawnalerts.data.SpawnAlertData;
+import eatawesome.pixelmonspawnalerts.utils.SpawnAlertTracker;
+
+import java.util.ArrayList;
+import java.util.List;
 import com.mojang.brigadier.Command;
 import com.mojang.brigadier.CommandDispatcher;
 import com.mojang.brigadier.arguments.StringArgumentType;
 import com.pixelmonmod.pixelmon.api.pokemon.species.Species;
 import com.pixelmonmod.pixelmon.api.registries.PixelmonSpecies;
-
-import eatAWESOME.pixelmonspawnalerts.data.AttachmentHandler;
-import eatAWESOME.pixelmonspawnalerts.data.SpawnAlertData;
-import eatAWESOME.pixelmonspawnalerts.utils.SpawnAlertTracker;
 import net.minecraft.commands.CommandSourceStack;
 import net.minecraft.commands.Commands;
 import net.minecraft.commands.SharedSuggestionProvider;
 import net.minecraft.network.chat.Component;
 import net.minecraft.server.level.ServerPlayer;
-import java.util.ArrayList;
-import java.util.List;
 
 public class SpawnAlert {
 

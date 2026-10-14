@@ -1,8 +1,8 @@
-package eatAWESOME.pixelmonspawnalerts.events;
+package eatawesome.pixelmonspawnalerts.events;
 
-import eatAWESOME.pixelmonspawnalerts.PixelmonSpawnAlerts;
-import eatAWESOME.pixelmonspawnalerts.utils.SpawnAlertTracker;
-import eatAWESOME.pixelmonspawnalerts.utils.SpawnAlertUtils;
+import eatawesome.pixelmonspawnalerts.PixelmonSpawnAlerts;
+import eatawesome.pixelmonspawnalerts.utils.SpawnAlertTracker;
+import eatawesome.pixelmonspawnalerts.utils.SpawnAlertUtils;
 
 import com.pixelmonmod.pixelmon.api.events.spawning.PixelmonSpawnerEvent;
 import com.pixelmonmod.pixelmon.api.events.spawning.SpawnEvent;

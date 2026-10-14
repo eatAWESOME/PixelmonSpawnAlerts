@@ -1,21 +1,19 @@
-package eatAWESOME.pixelmonspawnalerts;
+package eatawesome.pixelmonspawnalerts;
 
-import eatAWESOME.pixelmonspawnalerts.commands.SpawnAlert;
-import eatAWESOME.pixelmonspawnalerts.commands.SpawnAlertTP;
-import eatAWESOME.pixelmonspawnalerts.data.AttachmentHandler;
-import eatAWESOME.pixelmonspawnalerts.events.PlayerListener;
-import eatAWESOME.pixelmonspawnalerts.events.RaidListener;
-import eatAWESOME.pixelmonspawnalerts.events.SpawnListener;
+import eatawesome.pixelmonspawnalerts.commands.SpawnAlert;
+import eatawesome.pixelmonspawnalerts.commands.SpawnAlertTP;
+import eatawesome.pixelmonspawnalerts.data.AttachmentHandler;
+import eatawesome.pixelmonspawnalerts.events.PlayerListener;
+import eatawesome.pixelmonspawnalerts.events.RaidListener;
+import eatawesome.pixelmonspawnalerts.events.SpawnListener;
 
 import com.pixelmonmod.pixelmon.Pixelmon;
-
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.common.Mod;
 import net.neoforged.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.neoforge.event.RegisterCommandsEvent;
-
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

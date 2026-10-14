@@ -1,4 +1,4 @@
-package eatAWESOME.pixelmonspawnalerts.commands;
+package eatawesome.pixelmonspawnalerts.commands;
 
 import com.mojang.brigadier.Command;
 import com.mojang.brigadier.CommandDispatcher;

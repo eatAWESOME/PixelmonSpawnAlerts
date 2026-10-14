@@ -1,8 +1,8 @@
-package eatAWESOME.pixelmonspawnalerts.events;
+package eatawesome.pixelmonspawnalerts.events;
 
-import eatAWESOME.pixelmonspawnalerts.data.AttachmentHandler;
-import eatAWESOME.pixelmonspawnalerts.data.SpawnAlertData;
-import eatAWESOME.pixelmonspawnalerts.utils.SpawnAlertTracker;
+import eatawesome.pixelmonspawnalerts.data.AttachmentHandler;
+import eatawesome.pixelmonspawnalerts.data.SpawnAlertData;
+import eatawesome.pixelmonspawnalerts.utils.SpawnAlertTracker;
 
 import net.minecraft.server.level.ServerPlayer;
 import net.neoforged.bus.api.SubscribeEvent;

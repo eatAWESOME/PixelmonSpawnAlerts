@@ -1,4 +1,4 @@
-package eatAWESOME.pixelmonspawnalerts.utils;
+package eatawesome.pixelmonspawnalerts.utils;
 
 import java.util.Collections;
 import java.util.Map;
